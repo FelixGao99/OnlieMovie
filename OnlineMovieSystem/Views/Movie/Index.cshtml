@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    .thumbnail{
+        text-align: center;
+    }
+    .thumbnail .poster{
+        width: 160px;
+        height: 220px;
+    }
+    .thumbnail h3{
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+</style>
+
+<div class="row">
+    <div class="btn-toolbar" role="toolbar">
+        <h4>电影分类</h4>
+        <div class="btn-group">
+            @{
+                if (ViewBag.MovieCategories != null)
+                {
+                    foreach (var item in ViewBag.MovieCategories)
+                    {
+                        <button type="button" class="btn btn-default">
+                            @item.Name
+                        </button>
+                    }
+                }
+            }
+        </div>
+    </div>
+</div>
+
+<br />
+
+<div class="row">
+    @{
+        if (ViewBag.Movies != null)
+        {
+            <h4>搜索结果 ( 共 @ViewBag.Movies.Count 个 )</h4>
+
+            foreach (var item in ViewBag.Movies)
+            {
+                <div class="col-sm-6 col-md-3">
+                    <a href="/Movie/Detail?id=@item.ID">
+                        <div class="thumbnail">
+                            <img class="poster" src="@item.PosterUrl" alt="">
+                            <div class="caption">
+                                <h3>@item.CnName</h3>
+                                <p>@item.EnName</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        }
+        else
+        {
+            <h4>搜索结果 ( 共 0 个 )</h4>
+        }
+    }
+</div>

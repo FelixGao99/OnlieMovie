@@ -1,0 +1,108 @@
+﻿@{
+    ViewBag.Title = "首页";
+}
+
+<style>
+    .move-in-show .movie-item-wrap {
+        padding: 10px;
+        width: 100%;
+        text-align: center;
+        border: 1px solid lightgray;
+        border-radius: 4px;
+    }
+
+        .move-in-show .movie-item-wrap .poster {
+            display: block;
+            margin: 0 auto;
+            width: 100%;
+            height: 220px;
+        }
+
+        .move-in-show .movie-item-wrap .title {
+            margin-top: 5px;
+        }
+
+    .movie-recommend .movie-item-wrap {
+        padding: 10px;
+        width: 100%;
+        height: 90px;
+        border: 1px solid lightgray;
+        border-radius: 4px;
+    }
+
+        .movie-recommend .movie-item-wrap .poster {
+            display: block;
+            float: left;
+            width: 70px;
+            height: 70px;
+        }
+</style>
+
+<div class="row">
+    <div class="col-sm-12 col-md-8 move-in-show">
+        <h3>正在热映</h3>
+        @{
+            if (ViewBag.MoviesInShow != null)
+            {
+                foreach (var item in ViewBag.MoviesInShow)
+                {
+                    <div class="col-sm-12 col-md-3">
+                        <div class="movie-item-wrap">
+                            <a href="/Movie/Detail?id=@item.ID">
+                                <img class="poster" src="@item.PosterUrl" alt="Alternate Text" />
+                                <p class="title">@item.CnName</p>
+                            </a>
+                            <a class="btn btn-default btn-block" href="#">购票</a>
+                        </div>
+                    </div>
+                }
+            }
+        }
+    </div>
+    <div class="col-sm-12 col-md-4 movie-recommend">
+        <h3>今日推荐</h3>
+        @{
+            if (ViewBag.MoviesRecommend != null)
+            {
+                foreach (var item in ViewBag.MoviesRecommend)
+                {
+                    <div class="col-sm-12">
+                        <a href="#">
+                            <div class="movie-item-wrap">
+                                <div class="col-sm-3">
+                                    <img class="poster" src="@item.PosterUrl" alt="Alternate Text" />
+                                </div>
+                                <div class="col-sm-9">
+                                    <p>@item.CnName</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                }
+            }
+        }
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-12 move-in-show">
+        <h3>即将上映</h3>
+        @{
+            if (ViewBag.MoviesNotShow != null)
+            {
+                foreach (var item in ViewBag.MoviesNotShow)
+                {
+                    <div class="col-sm-12 col-md-3">
+                        <div class="movie-item-wrap">
+                            <a href="/Movie/Detail?id=@item.ID">
+                                <img class="poster" src="@item.PosterUrl" alt="Alternate Text" />
+                                <p class="title">@item.CnName</p>
+                            </a>
+                            <a class="btn btn-default btn-block" href="#">购票</a>
+                        </div>
+                    </div>
+                }
+            }
+        }
+    </div>
+</div>

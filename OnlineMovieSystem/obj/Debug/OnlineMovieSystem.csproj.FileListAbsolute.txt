@@ -1,0 +1,194 @@
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\csc.exe
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\System.Collections.Immutable.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\System.Reflection.Metadata.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\vbc.exe
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\VBCSCompiler.exe
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\VBCSCompiler.exe.config
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\OnlineMovieSystem.dll.config
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\OnlineMovieSystem.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\OnlineMovieSystem.pdb
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Antlr3.Runtime.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\EntityFramework.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\EntityFramework.SqlServer.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.Core.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Cookies.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Facebook.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Google.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.OAuth.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Twitter.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Web.Infrastructure.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Newtonsoft.Json.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Owin.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Net.Http.Formatting.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Helpers.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Http.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Http.WebHost.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Mvc.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Optimization.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Razor.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.Deployment.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.Razor.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\WebGrease.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Helpers.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Mvc.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Optimization.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Razor.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.Deployment.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.Razor.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Antlr3.Runtime.pdb
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Newtonsoft.Json.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Net.Http.Formatting.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Http.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Http.WebHost.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\EntityFramework.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\EntityFramework.SqlServer.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.Core.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Facebook.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Cookies.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.OAuth.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Google.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Twitter.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Helpers.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Mvc.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Optimization.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Razor.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.WebPages.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Http.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\EntityFramework.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\obj\Debug\OnlineMovieSystem.dll
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\obj\Debug\OnlineMovieSystem.pdb
+d:\backup\documents\visual studio 2015\Projects\OnlineMovieSystem\OnlineMovieSystem\obj\Debug\OnlineMovieSystem.csprojResolveAssemblyReference.cache
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\csc.exe
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\System.Collections.Immutable.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\System.Reflection.Metadata.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\vbc.exe
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\VBCSCompiler.exe
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\roslyn\VBCSCompiler.exe.config
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\OnlineMovieSystem.dll.config
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\OnlineMovieSystem.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\OnlineMovieSystem.pdb
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Antlr3.Runtime.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\EntityFramework.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\EntityFramework.SqlServer.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.Core.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Cookies.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Facebook.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Google.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.OAuth.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Twitter.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Web.Infrastructure.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Newtonsoft.Json.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Owin.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Net.Http.Formatting.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Helpers.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Http.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Http.WebHost.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Mvc.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Optimization.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Razor.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.Deployment.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.Razor.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\WebGrease.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Helpers.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Mvc.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Optimization.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Razor.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.Deployment.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.WebPages.Razor.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Antlr3.Runtime.pdb
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Newtonsoft.Json.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Net.Http.Formatting.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Http.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\System.Web.Http.WebHost.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\EntityFramework.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\EntityFramework.SqlServer.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.Core.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Facebook.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Cookies.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.OAuth.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Google.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.Twitter.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Helpers.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Mvc.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Optimization.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Razor.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.WebPages.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Http.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\EntityFramework.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\obj\Debug\OnlineMovieSystem.csprojResolveAssemblyReference.cache
+H:\OnlineMovieSystem\OnlineMovieSystem\obj\Debug\OnlineMovieSystem.dll
+H:\OnlineMovieSystem\OnlineMovieSystem\obj\Debug\OnlineMovieSystem.pdb

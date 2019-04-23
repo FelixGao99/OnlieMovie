@@ -1,0 +1,205 @@
+﻿@model OnlineMovieSystem.Models.Movie
+
+@{
+    Layout = "~/Views/Shared/_Layout_Detail.cshtml";
+    ViewBag.Title = "Detail";
+}
+
+<style>
+    .floor-1{
+        background: url("../../Resources/Images/movie-detail-banner.png") no-repeat;
+        background-size: 100% 100%;
+    }
+
+    .poster-wrap{
+        padding: 20px;
+    }
+
+    .poster{
+        width: 240px;
+        height: 330px;
+    }
+
+    .movie-info *{
+        color: #ffffff;
+    }
+
+    #comment-input{
+        width: 400px !important;
+    }
+
+</style>
+
+<div class="row floor-1">
+    <div class="col-sm-12 col-md-3 col-md-offset-1">
+        <div class="poster-wrap">
+            <img class="poster" src="@Model.PosterUrl" alt="Alternate Text" />
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-7 movie-info">
+        <h3>@Model.CnName</h3>
+        <h4>@Model.EnName</h4>
+        <div class="btn-group">
+            @foreach(var item in Model.MovieCategories)
+            {
+                <button class="btn btn-default" style="color:black;">@item.Name</button>
+            }
+        </div>
+        <br />
+        <br />
+        <p>@Model.MovieLength<span>分钟</span></p>
+        <p>@Model.ReleaseTime<span>上映</span></p>
+        <br />
+        <div class="btn-group">
+            <button id="btnLike" class="btn btn-danger">喜欢（ <span id="likeNumCount">@Model.LikeNum</span> ）</button>
+            <button class="btn btn-default" style="color:black;">收藏</button>
+            <button class="btn btn-primary">特惠购票</button>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+
+<div class="row">
+
+    <div class="col-sm-12 col-md-10 col-md-offset-1">
+        
+        <ul id="myTab" class="nav nav-tabs">
+            <li class="active">
+                <a href="#home" data-toggle="tab">介绍</a>
+            </li>
+            <li><a href="#ios" data-toggle="tab">演员</a></li>
+        </ul>
+
+        <div id="myTabContent" class="tab-content">
+
+            <div class="tab-pane fade in active" id="home">
+
+                <br />
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">剧情简介</h3>
+                    </div>
+                    <div class="panel-body">
+                        @Model.Description
+                    </div>
+                </div>
+
+                <br />
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">演员列表</h3>
+                    </div>
+                    <div class="panel-body">
+                        @foreach (var item in Model.MovieActors)
+                        {
+                            <h5>@item.CnName</h5>
+                        }
+                    </div>
+                </div>
+
+                <br />
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">热门评论</h3>
+                    </div>
+                    <div class="panel-body">
+                        <textarea id="comment-input" class="form-control col-sm-10" name="comment" rows="3" placeholder="请输入评论"></textarea>
+                        <br /><br />
+                        <button id="btnSetComment" class="btn btn-primary">提交评论</button>
+                        <br /><br />
+                        <div class="comment-list">
+                            <ul class="list-group">
+                                @foreach (var item in Model.MovieComments)
+                                {
+                                    <li class="list-group-item">
+                                        <div class="comment-item">
+                                            <h5>@item.user.Account</h5>
+                                            <p>@item.Content</p>
+                                        </div>
+                                    </li>
+                                }
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="tab-pane fade" id="ios">
+                @foreach(var item in Model.MovieActors)
+                {
+                    <h5>@item.CnName</h5>
+                }
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+@section scripts{
+    
+    <script>
+        $(function () {
+
+            // 点赞
+            $("#btnLike").on("click", function (e) {
+
+                e.preventDefault();
+
+                $.ajax({
+                    type: 'POST',
+                    url: '/Movie/SetLikeNum',
+                    data: {
+                        id: @Model.ID,
+                    },
+                    success: function(data){
+                        var result = eval('('+data+')');
+                        if(result.flag){
+                            var origin_like_num = parseInt($("#likeNumCount").text());
+                            $("#likeNumCount").text(origin_like_num + 1);
+                        }
+                    },
+                    error: function(e){
+                        console.log(e);
+                    }
+                })
+
+            })
+
+            // 发表评论
+            $("#btnSetComment").on("click", function (e) {
+
+                e.preventDefault();
+
+                $.ajax({
+                    type: 'POST',
+                    url: '/Movie/SetComment',
+                    data: {
+                        id: @Model.ID,
+                        comment: $("#comment-input").val()
+                    },
+                    success: function(data){
+                        console.log(data);
+                    },
+                    error: function(e){
+                        console.log(e);
+                    }
+                })
+
+            })
+
+        })
+    </script>
+
+}
+
+
